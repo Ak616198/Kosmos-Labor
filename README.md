@@ -1,1 +1,1 @@
-# Kosmos-Labor
+https://github.com/deinName/kosmos-labor
